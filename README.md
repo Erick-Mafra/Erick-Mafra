@@ -6,6 +6,7 @@
 
 
 [![ErickMafraStats](https://github-readme-stats.vercel.app/api?username=Erick-Mafra&theme=transparent)](https://github.com/Erick-Mafra/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Mafra&layout=compact&theme=transparent)](https://github.com/Erick-Mafra/github-readme-stats)
 
 ## Contacts and Social Media
